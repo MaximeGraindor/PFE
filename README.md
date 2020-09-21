@@ -25,4 +25,9 @@ L'utilisateur se connecte avec ses identifiants, arrive sur un fil d'actualité 
 
 ## Différentes vues
 
--
+### Inscription / Se connecter
+- Se connecter avec ses identifiants d'inscriptions
+- S'inscrire avec nom, prénom, pseudo, email, mot de passe et la possibiliter se connecter avec des réseaux sociaux
+
+### Profil de l'utilisateur de
+- 
