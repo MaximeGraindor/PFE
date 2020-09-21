@@ -29,5 +29,27 @@ L'utilisateur se connecte avec ses identifiants, arrive sur un fil d'actualité 
 - Se connecter avec ses identifiants d'inscriptions
 - S'inscrire avec nom, prénom, pseudo, email, mot de passe et la possibiliter se connecter avec des réseaux sociaux
 
-### Profil de l'utilisateur de
-- 
+### Profil de l'utilisateur
+- Montre un brief résumé des informations de l'utilisateur (avatar, pseudo et email)
+- Pouvoir modifier toutes ses informations
+- Affiche la liste des jeux terminés ainsi que la listes des envies
+- Liste d'abonnements et d'abonnés
+- (Satistiques concernant notre activité)
+
+### Modification du profile
+- Capable de modifier toutes les informations qui constitue le profil
+
+### Dashboard principal
+- Petit calendrier avec les prochaines sorties
+- Affiche la liste des jeux en cours
+- Possibilité de rechercher un jeu avec un filtre
+
+### Agenda
+- Calendrier classique qui indiquera toute les futurs sorties des jeux
+
+### Fiche d'un jeu
+- Fiche de jeu classique avec toutes les informations ; Nom, description, studio, date de sortie, le genre, Editeur, bande annonce, une note
+- Une lise de commentaire
+
+### Communauté
+- Recherche de joueurs auxquels on pourra s'abonner et suivre ses jeux
