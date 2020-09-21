@@ -22,3 +22,7 @@ L'objectif principal de l'application serait de pouvoir enregistrer tous les jeu
 ## Fonctionnement
 
 L'utilisateur se connecte avec ses identifiants, arrive sur un fil d'actualité où il verra les différentes sorties et les nouveautés récentes. Il aura accès a un champ de recherche où il pourra chercher après un jeu. Une fois ce dernier trouvé, il pourra l’ajouter a sa liste des jeux terminé ou à sa liste d’envie. Il pourra aussi regarder la fiche de ce jeu où il y verra toutes ses informations (description, studio, date de sortie, producteur, programmeur, …). Il aura aussi un accès aussi a un onglet communauté où il trouvera les personnes qu’il cherche pour les ajoutés à sa liste d’amis, ainsi que des contacts suggérés en fonction des jeux qu’il joue. Il aura aussi la possibilité de compléter son profil avec son pseudo des jeux multijoueurs
+
+## Différentes vues
+
+-
